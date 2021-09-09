@@ -55,7 +55,7 @@ yarn migration:show
 Generate new migration based on changes made to \*.entity.ts files
 
 ```bash
-yarn migration:generate
+yarn migration:generate migrationName
 ```
 
 Run migrations
